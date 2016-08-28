@@ -2,7 +2,7 @@
 A list of papers/books on different category:
   - Neural Network
     - Easy explanation [[book](http://neuralnetworksanddeeplearning.com)]
-    - Detailed explanation of many things about neural nets [[book](http://deeplearningbook.org)] 
+    - Detailed explanation of many things about neural nets [[book](http://www.deeplearningbook.org)] 
     - Practical approach and code in python [[site](http://deeplearning.net/tutorial/)]
     - Understanding how deep beleif networks perform acoustic modelling [[paper](http://www.cs.toronto.edu/~asamir/papers/icassp12_dbn.pdf)] 
     - Audio processing
