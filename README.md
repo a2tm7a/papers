@@ -4,7 +4,7 @@
 2. This repository contains a list various tasks that can be achieved with Machine Learning/Deep Learning.
 3. It doesn't contain any benchmark paper because I love in doing new things rather than improving previous research.
 
-Pull Requests are welcome to add any new blog, paper, site link.
+*Pull Requests are welcome to add any new blog, paper, site link.*
 
 ## Theory:
 [Scikit Learn](http://scikit-learn.org/stable/) is a wonderful library for implementing basic machine learning tasks.
