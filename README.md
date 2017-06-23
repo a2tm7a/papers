@@ -21,7 +21,7 @@
 * Word2vec [[paper](http://web2.cs.columbia.edu/~blei/seminar/2016_discrete_data/readings/MikolovSutskeverChenCorradoDean2013.pdf)]
 * Doc2vec [[paper](https://cs.stanford.edu/~quocle/paragraph_vector.pdf)]
 * Practical approach and code in python. [[Theano](http://deeplearning.net/tutorial/)] [[Tensorflow](tensorflow.org/tutorials/)] [[keras](https://github.com/fchollet/keras/)]
-
+* RNNs and LSTMs Intuition [[site](http://blog.echen.me/2017/05/30/exploring-lstms/)]
 ## Applications:
 ***
 __Keyword Spotting system / Wake-word detection__
