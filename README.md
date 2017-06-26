@@ -70,3 +70,6 @@ __Neural Talk 2__
 ***
 __Neural VQA__
 * Exploring Models and Data for Image Question Answering [[paper](https://arxiv.org/abs/1505.02074)] [[implementation](https://github.com/abhshkdz/neural-vqa)]
+***
+__Genre Classification__
+* To classify songs based on genre automatically [[implementation](https://github.com/despoisj/DeepAudioClassification)]
