@@ -22,6 +22,7 @@
 * Doc2vec [[paper](https://cs.stanford.edu/~quocle/paragraph_vector.pdf)]
 * Practical approach and code in python. [[Theano](http://deeplearning.net/tutorial/)] [[Tensorflow](tensorflow.org/tutorials/)] [[keras](https://github.com/fchollet/keras/)]
 * RNNs and LSTMs Intuition [[site](http://blog.echen.me/2017/05/30/exploring-lstms/)]
+* GANs [first-paper](https://arxiv.org/pdf/1406.2661.pdf)
 ## Applications:
 ***
 __Keyword Spotting system / Wake-word detection__
