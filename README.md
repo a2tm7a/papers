@@ -12,19 +12,21 @@
 ##### Naive Bayes:
 * Basics of naive bayes with term frequency and inverse document frequecy intuition [[site](http://sebastianraschka.com/Articles/2014_naive_bayes_1.html)]
 
-##### SVC:
-
 ### Deep Learning:
 * A beginners guide to understand neural nets. Easy explanation [[book](http://neuralnetworksanddeeplearning.com)]
 * Detailed explanation with math [[book](http://www.deeplearningbook.org)]
 * Dropouts [[paper](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)]
-* Word2vec [[paper](http://web2.cs.columbia.edu/~blei/seminar/2016_discrete_data/readings/MikolovSutskeverChenCorradoDean2013.pdf)]
-* Doc2vec [[paper](https://cs.stanford.edu/~quocle/paragraph_vector.pdf)]
 * Practical approach and code in python. [[Theano](http://deeplearning.net/tutorial/)] [[Tensorflow](tensorflow.org/tutorials/)] [[keras](https://github.com/fchollet/keras/)]
 * RNNs and LSTMs Intuition [[site](http://blog.echen.me/2017/05/30/exploring-lstms/)]
 * GANs [[first-paper]](https://arxiv.org/pdf/1406.2661.pdf)
+
+##### Text Embedding:
+* Word2vec [[paper](http://web2.cs.columbia.edu/~blei/seminar/2016_discrete_data/readings/MikolovSutskeverChenCorradoDean2013.pdf)]
+* Doc2vec [[paper](https://cs.stanford.edu/~quocle/paragraph_vector.pdf)]
+* SkipThought Vectors [[paper](https://arxiv.org/abs/1506.06726)] [[implementation](https://github.com/ryankiros/skip-thoughts)]
+
+
 ## Applications:
-***
 __Keyword Spotting system / Wake-word detection__
 * Small-footprint keyword spotting using deep neural networks [[paper](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42537.pdf)]
 * Convolutional Neural Networks for Small-footprint Keyword Spotting [[paper](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43969.pdf)]
