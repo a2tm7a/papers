@@ -61,6 +61,12 @@ __Retinal vessel segmentation__
 * Segmenting Retinal Blood Vessels With Deep Neural Networks [[paper](http://ieeexplore.ieee.org/document/7440871/)] [[implementation](https://github.com/jain-anshul/segmenting-retina-unet)] 
 * Retinal Vessel Segmentation Using the 2-D Gabor Wavelet and Supervised Classification[[paper](http://ieeexplore.ieee.org/document/1677727)]
 ***
+__Text to Image Generation__
+* Text to image Synthesis using GANs [[paper](https://arxiv.org/abs/1605.05396)] [[implementation](https://github.com/paarthneekhara/text-to-image)]
+* StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks [[paper](https://arxiv.org/abs/1612.03242)] [[implementation](https://github.com/hanzhanggit/StackGAN)]
+* StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks [[paper](https://arxiv.org/abs/1710.10916)] [[implementation](https://github.com/hanzhanggit/StackGAN-v2)]
+* AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks [[paper](https://arxiv.org/abs/1711.10485)]
+***
 __Object Classification and Recognition__
 * YOLO9000: Better, Faster, Stronger [[paper](https://arxiv.org/abs/1612.08242)] [[implementation](https://pjreddie.com/darknet/yolo/)]
 * Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks [[paper](https://arxiv.org/abs/1506.01497)] [[implementation](https://github.com/ShaoqingRen/faster_rcnn)]
